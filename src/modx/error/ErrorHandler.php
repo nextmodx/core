@@ -10,9 +10,10 @@
 
 namespace modx\core\error;
 
-/**
+use modX;
+
+/**s
  * The base PHP error handler class for the modX framework.
- *
  * @package modx
  * @subpackage error
  */
